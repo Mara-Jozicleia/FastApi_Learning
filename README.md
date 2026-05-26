@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Repositório com código fonte da disciplina de API
 
 Repositório de estudo de FastAPI desenvolvido durante as aulas.
@@ -31,3 +32,6 @@ fastapi dev api/main.py
 A aplicação estará disponível em: http://localhost:8000
 
 A documentação interativa (Swagger UI) estará em: http://localhost:8000/docs
+=======
+LearningFastApi
+>>>>>>> a1ad070ae27fed1680d3e5d4b351a36bbcf5edab
