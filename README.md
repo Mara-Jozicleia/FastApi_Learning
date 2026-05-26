@@ -1,6 +1,5 @@
-# Repositório com código fonte da disciplina de API
 
-Repositório de estudo de FastAPI desenvolvido durante as aulas.
+# Repositório de estudo de FastAPI desenvolvido durante as aulas.
 
 ## Requisitos
 
